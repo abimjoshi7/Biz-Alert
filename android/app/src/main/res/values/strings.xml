@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BizAlert</string>
+    <string name="facebook_app_id">582102430313831</string>
+    <string name="fb_login_protocol_scheme">fb582102430313831</string>
+    <string name="facebook_client_token">a538098a6a6e4599fb7a5872459f0cc3</string>
+</resources>
